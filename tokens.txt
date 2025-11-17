@@ -1,0 +1,68 @@
+Line 1: KW_UNIVERSE -> universe
+Line 1: IDENTIFIER -> main
+Line 1: LPAREN -> (
+Line 1: RPAREN -> )
+Line 1: LBRACE -> {
+Line 2: KW_STAR -> star
+Line 2: IDENTIFIER -> age
+Line 2: SEMICOLON -> ;
+Line 3: KW_PLANET -> planet
+Line 3: IDENTIFIER -> distance
+Line 3: SEMICOLON -> ;
+Line 4: KW_GALAXY -> galaxy
+Line 4: IDENTIFIER -> message
+Line 4: SEMICOLON -> ;
+Line 6: KW_OBSERVE -> observe
+Line 6: STRING -> "Calculating cosmic distance..."
+Line 6: SEMICOLON -> ;
+Line 8: IDENTIFIER -> distance
+Line 8: OP_LAUNCH -> launch
+Line 8: NUMBER_FLOAT -> 9.46073e15
+Line 8: SEMICOLON -> ;
+Line 9: IDENTIFIER -> age
+Line 9: OP_LAUNCH -> launch
+Line 9: NUMBER_INT -> 13800000000
+Line 9: SEMICOLON -> ;
+Line 11: IDENTIFIER -> distance
+Line 11: OP_LAUNCH -> launch
+Line 11: IDENTIFIER -> distance
+Line 11: OP_RADIATE -> radiate
+Line 11: NUMBER_INT -> 3
+Line 11: SEMICOLON -> ;
+Line 12: IDENTIFIER -> distance
+Line 12: OP_LAUNCH -> launch
+Line 12: IDENTIFIER -> distance
+Line 12: OP_FUSION -> fusion
+Line 12: NUMBER_FLOAT -> 5.8786e12
+Line 12: SEMICOLON -> ;
+Line 14: KW_OBSERVE -> observe
+Line 14: STRING -> "Age of Universe: "
+Line 14: IDENTIFIER -> age
+Line 14: SEMICOLON -> ;
+Line 15: KW_OBSERVE -> observe
+Line 15: STRING -> "Distance traveled: "
+Line 15: IDENTIFIER -> distance
+Line 15: SEMICOLON -> ;
+Line 17: KW_ORBIT -> orbit
+Line 17: LPAREN -> (
+Line 17: IDENTIFIER -> age
+Line 17: OP_EXPAND -> expand
+Line 17: NUMBER_INT -> 10000000000
+Line 17: RPAREN -> )
+Line 17: LBRACE -> {
+Line 18: KW_OBSERVE -> observe
+Line 18: STRING -> "We are in the Stelliferous Era!"
+Line 18: SEMICOLON -> ;
+Line 19: RBRACE -> }
+Line 19: KW_GRAVITY -> gravity
+Line 19: LBRACE -> {
+Line 20: KW_OBSERVE -> observe
+Line 20: STRING -> "Entering Black Hole Era..."
+Line 20: SEMICOLON -> ;
+Line 21: RBRACE -> }
+Line 23: KW_SUPERNOVA -> supernova
+Line 23: NUMBER_INT -> 0
+Line 23: SEMICOLON -> ;
+Line 24: RBRACE -> }
+
+COSMOS Scanner: Mission Accomplished!
