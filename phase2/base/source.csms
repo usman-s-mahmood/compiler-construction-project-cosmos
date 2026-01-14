@@ -1,0 +1,24 @@
+universe main() {                           
+    star age;
+    planet distance;
+    galaxy message;
+    
+    observe "Calculating cosmic distance...";
+    
+    distance launch 9.46073e15;             
+    age launch 13800000000;                 
+    
+    distance launch distance radiate 3;     
+    distance launch distance fusion 5.8786e12; 
+    
+    observe "Age of Universe: " age;
+    observe "Distance traveled: " distance;
+    
+    orbit (age expand 10000000000) {        
+        observe "We are in the Stelliferous Era!";
+    } gravity {
+        observe "Entering Black Hole Era...";
+    }
+    
+    supernova 0;                            
+}                                           

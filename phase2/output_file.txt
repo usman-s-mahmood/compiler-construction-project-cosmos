@@ -1,0 +1,22 @@
+COSMOS Compiler - Phase 2 Syntax Analyzer | Developed by Usman Shahid (Not Your Average Hacker!)
+Initializing...
+
+[LOG] Line 2: Found Variable Declaration
+[LOG] Line 3: Found Variable Declaration
+[LOG] Line 4: Found Variable Declaration
+[LOG] Line 6: Found Output Statement (Observe)
+[LOG] Line 8: Found Assignment Operation (Launch)
+[LOG] Line 9: Found Assignment Operation (Launch)
+[LOG] Line 11: Found Assignment Operation (Launch)
+[LOG] Line 12: Found Assignment Operation (Launch)
+[LOG] Line 14: Found Output Statement (Observe)
+[LOG] Line 15: Found Output Statement (Observe)
+[LOG] Line 18: Found Output Statement (Observe)
+[LOG] Line 20: Found Output Statement (Observe)
+[LOG] Line 21: Found Conditional Block with Else (Orbit/Gravity)
+[LOG] Line 23: Found Return Statement (Supernova)
+
+[STATUS] --------------------------------------
+[STATUS] Syntax Analysis Successful!
+[STATUS] The structure of the 'Universe' is valid.
+[STATUS] --------------------------------------
